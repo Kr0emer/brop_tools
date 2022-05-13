@@ -1,0 +1,2 @@
+# brop_tools
+一个ctf中pwn方向的brop题目dump小工具，由于brop中dump文件这一部分比较模板化，所有写一个工具来帮助各位ctfer更快的完成攻击。
