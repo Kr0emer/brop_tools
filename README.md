@@ -20,7 +20,7 @@ pip install PyQt5-tools
 
 ## 使用方式
 
-（目前只实现了brop钟puts函数的攻击，考研中时间比较紧迫，日后可能会实现所有的blind pwn）
+（目前只实现了brop中64位的puts函数的攻击，考研中时间比较紧迫，日后可能会实现所有的blind pwn）
 
 使用方式
 
