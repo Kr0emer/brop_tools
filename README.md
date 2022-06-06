@@ -5,8 +5,6 @@
 ## 环境配置
 
 需要先安装pyqt5的库和pwntools的库
-sudo apt update
-sudo apt install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential -y
 
 ```shell
 sudo apt update
