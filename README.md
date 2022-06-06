@@ -9,6 +9,8 @@ sudo apt update
 sudo apt install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential -y
 
 ```shell
+sudo apt update
+sudo apt install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential -y
 python3 -m pip install --upgrade pip
 pip3 install --upgrade pwntools
 pip  install sip
@@ -28,4 +30,3 @@ python brop.py
 ```
 
 支持选择爆破起始点，只需要在要计算的位置填写爆破起始点即可，爆破完成后后自动填补
-
